@@ -1,0 +1,6 @@
+canvas {
+  background: black;
+  /*border: 2px ;*/
+  border-style: ridge;
+  border-radius: 2px;
+}
